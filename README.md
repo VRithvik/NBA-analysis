@@ -106,7 +106,7 @@ It provides season-wise insights, comparisons, global player distribution, and i
 
 ### 1️⃣ Clone the Repository
 <pre>
-git clone https://github.com/your-username/NBA-analysis.git
+git clone https://github.com/VRithvik/NBA-analysis.git
 cd NBA-analysis
 </pre>
 
