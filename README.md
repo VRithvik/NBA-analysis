@@ -157,19 +157,6 @@ shiny run app.py
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!  
-Feel free to fork the repository, submit pull requests, or open issues.
-
----
-
-## 📜 License
-
-This project is licensed under the <b>MIT License</b>.
-
----
-
 <div align="center">
 
 ⭐ If you like this project, don’t forget to star the repository! ⭐
