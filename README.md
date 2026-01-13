@@ -106,8 +106,8 @@ It provides season-wise insights, comparisons, global player distribution, and i
 
 ### 1️⃣ Clone the Repository
 <pre>
-git clone https://github.com/your-username/nba-shiny-analysis.git
-cd nba-shiny-analysis
+git clone https://github.com/your-username/NBA-analysis.git
+cd NBA-analysis
 </pre>
 
 ### 2️⃣ Install Dependencies
