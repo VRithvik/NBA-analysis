@@ -82,19 +82,6 @@ It provides season-wise insights, comparisons, global player distribution, and i
 
 ---
 
-## 📁 Project Structure
-
-<pre>
-nba-shiny-analysis/
-│
-├── app.py                # Main Shiny app
-├── nba_players.csv       # Dataset
-├── README.md             # Documentation
-└── requirements.txt      # Dependencies
-</pre>
-
----
-
 ## 📊 Dataset Information
 
 <b>File:</b> <code>nba_players.csv</code>
@@ -134,26 +121,6 @@ shiny run app.py
 </pre>
 
 📍 The app will open automatically in your web browser.
-
----
-
-## 🎨 UI Highlights
-
-- 🌗 Dark mode toggle
-- 🧩 Card-based layout
-- 📑 Pill-style navigation tabs
-- 🎯 Responsive and clean design
-- ⚡ Fast interactive plots
-
----
-
-## 🔮 Future Enhancements
-
-- Advanced metrics (PER, TS%, BPM)
-- Position-based filtering
-- Team win/loss comparisons
-- Export charts and data
-- Player similarity analysis
 
 ---
 
